@@ -1,0 +1,63 @@
+
+<html lang="en">
+<head>
+
+<title>blog</title>
+
+</head>
+
+	<body text = " #0099CC" bgcolor = "	#336699"> <!--bgcolor is the backgroung-->
+			<table width = "100%" border = "0">
+		          <tr>
+		             <td colspan = "2" bgcolor = " #000000">
+		<j> <center> 
+			<h2>Sewing and Stitchery</h2>
+      </center> </j>
+			</td>
+				</tr>
+		<tr valing = "top">
+		<td bgcolor = "#eee	" width = "50" >
+		<center>
+      
+      
+      
+      
+     <button type = "button" onclick = "enlarge()">Enlarge Font</button>
+      
+<b>				<img src="https://cdn.pixabay.com/photo/2015/11/17/10/42/vintage-1047275_1280.jpg"  alt="A Vintage Sewing Machine"class="thumbnail" width = "300" height = "100">
+					<!--image code above--> </b>
+     
+ <div id ="bio">
+   <p>
+   <h>
+ Learning to sew is a practice in patience and perseverance. First you must commit to seeking the knowledge them you can enjoy the practice and creation. One of the best places to start is on youtube. Learning and perfecting the basic is crucial to mastery of the craft.To start first locate a medium size needle, some thread, a piece of scrap fabric and an embroidery hoop. Practicing your stitches with scrap fabric and an embroidery hoop is a great way to learn and master the basic.
+   </h>
+   
+   </p>
+   
+      </div>
+			</center>
+		</td>
+			<td bgcolor =  "#ABB2B9" width = "100" height = "200">
+				<center>
+
+<p>	<m>	<b>	A few suggested stitches:<br / ></b>
+			The running stitch<br / >
+		A staystitch<br / >
+		A whip stitch<br / >
+		 <a href = "https://www.craftsy.com/embroidery/article/hand-embroidery-stitches/" target = "_self">Stitching Reference</a></p>
+	<m><center> With the stitches you are now learning you can create: <br / >
+</m></center>
+
+<div id="images">
+<img src="https://www.urbanthreads.com/productimages/project/UT_pr148_03.jpg" class="thumbnail" height="100" width="100" /><br / >
+    
+<img src="https://www.emblibrary.com/EL/Product_images/F7225.jpg" class="thumbnail" height="100" width="100" />
+
+          </m>	</center>
+		</td>
+						</tr>
+		</table>
+
+    
+</html> 
